@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://juega-para-divertirte.com/sitemap.xml
